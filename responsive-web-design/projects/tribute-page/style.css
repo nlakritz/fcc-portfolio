@@ -1,0 +1,38 @@
+body {
+    background-color: #9BCDFF;
+    font-family: Tahoma, Geneva, sans-serif;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  ul {
+      margin: auto;
+  }
+  
+  li { 
+    padding: 5px 0px; 
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-style: italic;
+    padding: 0px 0px 12px 0px;
+  }
+  
+  #tribute-info {
+    background-color: #92b6d8;
+    padding: 10px 20px;
+    margin: 0px 75px 25px;
+  }
